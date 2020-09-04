@@ -1,3 +1,2 @@
 learnig devops now
-post will revise aws
-this is to test revert command
+in process
